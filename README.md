@@ -1,3 +1,4 @@
+#PRIMITIVE PROGRAMMING
 Developed a simple compiler using Python, primarily for educational purposes.
 Supports basic arithmetic operations: addition, subtraction, multiplication, and division.
 Operates with a wide variable set (a to z and A to Z) to simplify the processing logic.
